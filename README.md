@@ -14,7 +14,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/KITTU223/auro-reactNative.git
-cd aora
+cd aora-reactNative
 ```
 **Installation**
 
